@@ -14,6 +14,10 @@ p {
     font-size:  21px;
     color:  gray;
 }
+.dwld {
+    color: aquamarine;
+    font-size: 16px;
+}
 .footer {
     text-align:  right;
     color:  gray;
